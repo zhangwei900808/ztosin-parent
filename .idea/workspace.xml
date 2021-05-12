@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10de2500-657f-47b5-8dcc-41136db08023" name="Default Changelist" comment="" />
+    <list default="true" id="10de2500-657f-47b5-8dcc-41136db08023" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/ztosin-nacossvr/target/" />
@@ -22,6 +24,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Dockerfile" value="1" />
+          <entry key="gitignore" value="1" />
           <entry key="java" value="1" />
           <entry key="xml" value="1" />
           <entry key="yaml" value="1" />
@@ -32,6 +35,7 @@
         <counts>
           <entry key="Dockerfile" value="1" />
           <entry key="JAVA" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="1" />
           <entry key="YAML" value="3" />
         </counts>
@@ -82,7 +86,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ztosin-nacossvr/src/main/java/com/ztosin/nacossvr/NacosServerApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
@@ -90,6 +94,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -131,6 +144,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -168,6 +184,9 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -180,65 +199,6 @@
             <path>
               <item name="ztosin-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="ztosin-parent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ztosin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ztosin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ztosin-nacossvr" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ztosin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ztosin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ztosin-nacossvr" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ztosin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ztosin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ztosin-nacossvr" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ztosin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ztosin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ztosin-nacossvr" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="docker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ztosin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ztosin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ztosin-nacossvr" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ztosin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ztosin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ztosin-nacossvr" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nacossvr" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ztosin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ztosin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ztosin-nacossvr" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="k8s" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ztosin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ztosin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ztosin-nacossvr" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -257,6 +217,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/ztosin-nacossvr/src/main/resources" />
     </key>
   </component>
@@ -319,12 +280,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620803665798</updated>
-      <workItem from="1620803667435" duration="3318000" />
+      <workItem from="1620803667435" duration="3510000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3318000" />
+    <option name="totallyTimeSpent" value="3510000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -408,6 +369,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
         </state>
       </provider>
     </entry>
